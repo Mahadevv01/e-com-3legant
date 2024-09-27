@@ -5,10 +5,7 @@ Welcome to your new `ecom_3Lagent` project and to the Internet Computer developm
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 You can view the demo video below:
 
-<video width="600" controls>
-  <source src="./path/to/Screen_Recording_2024-09-27_224340_(2)_(1).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 To learn more before you start working with `ecom_3Lagent`, see the following documentation available online:
 
