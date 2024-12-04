@@ -44,7 +44,7 @@ npm run generate
 
 at any time. This is recommended before starting the frontend development server, and will be run automatically any time you run `dfx deploy`.
 
-If you are making frontend changes, you can start a development server with
+
 
 
 
